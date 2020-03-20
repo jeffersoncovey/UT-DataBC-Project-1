@@ -1,2 +1,2 @@
 # UTT-DataBC-Project-1
-Ya'll I messed this up already.
+I have uploaded the Weather for Texas. Will pull Bee Data and compare
