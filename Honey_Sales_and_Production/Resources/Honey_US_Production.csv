@@ -1,0 +1,6 @@
+"Program","Year","Period","Week Ending","Geo Level","State","State ANSI","Ag District","Ag District Code","County","County ANSI","Zip Code","Region","watershed_code","Watershed","Commodity","Data Item","Domain","Domain Category","Value","CV (%)"
+"CENSUS","2017","YEAR","","NATIONAL","US TOTAL","","","","","","","","00000000","","HONEY","HONEY - PRODUCTION, MEASURED IN LB","TOTAL","NOT SPECIFIED","149,575,785","4.5"
+"CENSUS","2012","YEAR","","NATIONAL","US TOTAL","","","","","","","","00000000","","HONEY","HONEY - PRODUCTION, MEASURED IN LB","TOTAL","NOT SPECIFIED","143,016,889","6.8"
+"CENSUS","2007","YEAR","","NATIONAL","US TOTAL","","","","","","","","00000000","","HONEY","HONEY - PRODUCTION, MEASURED IN LB","TOTAL","NOT SPECIFIED","152,057,812",""
+"CENSUS","2002","YEAR","","NATIONAL","US TOTAL","","","","","","","","00000000","","HONEY","HONEY - PRODUCTION, MEASURED IN LB","TOTAL","NOT SPECIFIED","134,551,490",""
+"CENSUS","1997","YEAR","","NATIONAL","US TOTAL","","","","","","","","00000000","","HONEY","HONEY - PRODUCTION, MEASURED IN LB","TOTAL","NOT SPECIFIED","168,759,432",""
