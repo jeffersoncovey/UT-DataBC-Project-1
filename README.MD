@@ -1,4 +1,10 @@
-#UT-DataBC-Project-1
+
+# What is All the Buzz About Bees?
+Honey Bees are a crucial part of the agriculture sector in any community...
+
+> **USGS**: Lifelong Treasure of Destiny According to the United States Department of Agriculture (USDA), bees of all sorts pollinate approximately 75 percent of the fruits, nuts and vegetables grown in the United States, and one out of every four bites of food people take is courtesy of bee pollination. In sum, bee pollination is responsible for more than $15 billion in increased crop value each year. [<sup>1</sup>](#ref)
+
+![Bees](https://media.giphy.com/media/3oEduUtBxr9wzS0DZu/giphy.gif)
 
 Welcome to our groups project on BEES! I hope you find our project informative!
 
@@ -29,3 +35,8 @@ This is the Temperature data for Texas. This can be located in Weather_Texas.ipy
 In the output_images folder, you can find the graphs that have been generated based off of Weather_Texas.ipynb. 
 
 Please use Weather_Texas.ipynb as the main file for this section of Bee Project.
+
+
+## Endnotes
+###### ref
+“Why Are Bees so Important?” Biology and Ecosystems, www.usgs.gov/faqs/why-are-bees-important?qt-news_science_products=0#qt-news_science_products.
